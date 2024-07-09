@@ -1,0 +1,23 @@
+{
+  "name": "asj-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuznetsovaAnna66/asj-2.git"
+  },
+  "author": "Anna Kuznetsova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuznetsovaAnna66/asj-2/issues"
+  },
+  "homepage": "https://github.com/KuznetsovaAnna66/asj-2#readme",
+  "dependencies": {
+    "@kuznetsovaanna66/asj": "^1.0.0"
+  }
+}
